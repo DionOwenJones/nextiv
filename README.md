@@ -1,6 +1,6 @@
 # Nextiv - Your Personal Fitness Journey
 
-![Nextiv App](image.png)
+![Nextiv App](assets/screenshots/image.png)
 
 Nextiv is a cutting-edge fitness tracking application that transforms your wellness journey into an engaging, gamified experience. With a sleek, modern interface and powerful features, Nextiv helps you achieve your fitness goals while making the process enjoyable and rewarding.
 
